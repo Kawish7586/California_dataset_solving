@@ -1,2 +1,3 @@
 # California_dataset_solving
-For description please visit Kaggle California housing price dataset 
+The dataset is been taken from google colab.
+Understading related to dataset please visit kaggle's California housing prices dataset
